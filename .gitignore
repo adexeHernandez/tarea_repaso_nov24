@@ -1,0 +1,11 @@
+#ignorar archivo 
+.DS_Store
+configuracion_local.sh
+
+#ignorar carpeta o directorio
+local_config/
+
+
+#ignorar todos los archivos con las siguientes extensiones
+*.tmp
+*.env

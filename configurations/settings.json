@@ -1,0 +1,24 @@
+{
+    "appName": "TareaRepaso",
+    "version": "1.0.0",
+    "author": "Adexe",
+    "settings": {
+      "theme": "dark",
+      "language": "es",
+      "autoSave": true,
+      "notifications": {
+        "enabled": true,
+        "sound": false
+      },
+      "shortcuts": {
+        "save": "Ctrl+S",
+        "open": "Ctrl+O",
+        "close": "Ctrl+Q"
+      }
+    },
+    "server": {
+      "host": "localhost",
+      "port": 3000,
+      "useSSL": false
+    }
+  }
