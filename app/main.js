@@ -16,3 +16,7 @@ function greetUser(userName) {
 
 // Llamada a la función ficticia
 greetUser("Adexe");
+
+// Añadir información adicional en el script
+console.log("¡Gracias por revisar mi práctica!");
+console.log("Esta es una tarea para reforzar el uso de Git y GitHub.");
